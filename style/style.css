@@ -165,4 +165,5 @@ ul, li {
 .movie:hover {
     background: rgba(76, 211, 221, 0.5);
     filter: drop-shadow(1px 1px 2px white);
+    cursor: pointer;
 }
